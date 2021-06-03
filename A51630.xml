@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for a national bank consisting of land, or any other valuable securities or depositions, with a grand cash for returns of money, &amp;c., from all parts within His Majesty's dominions of England, Scotland, and Ireland, &amp;c. : the vvhole to be under the care, inspection, trust, and controul of the publick authority, and legal magistracy : as the same was presented to the Right Honourable Sir Thomas Lane, Knight, Lord Mayor of the city of London / by Robert Murray, Gent.</title>
+            <author>Murray, Robert, 1635-1725?</author>
+         </titleStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51630</idno><idno type="EEBO-CITATION">12409370</idno>
+  <idno type="VID">61475</idno>
+  <idno type="EEBO-PROQUEST">2240959781</idno>
+  
+            <idno type="STC">Wing M3117</idno>
+            <idno type="STC">ESTC R525</idno>
+            <idno type="OCLC">12409370</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61475)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 284:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for a national bank consisting of land, or any other valuable securities or depositions, with a grand cash for returns of money, &amp;c., from all parts within His Majesty's dominions of England, Scotland, and Ireland, &amp;c. : the vvhole to be under the care, inspection, trust, and controul of the publick authority, and legal magistracy : as the same was presented to the Right Honourable Sir Thomas Lane, Knight, Lord Mayor of the city of London / by Robert Murray, Gent.</title>
+                  <author>Murray, Robert, 1635-1725?</author>
+               </titleStmt>
+               <extent>[3], 4, 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the proposer,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695/6 [i.e. 1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Banks and banking --  Great Britain.</term>
+               <term type="topical_term">Land banks --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61475:1"/>
+            <p>A PROPOSAL FOR A National BANK, CONSISTING OF LAND, Or any Other Valuable <hi>Securities or Depositums:</hi> WITH A GRAND CASH FOR Returns of Money, &amp;c. From all Parts within His Majesty's Dominions of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> &amp;c. The VVhole to be under the Care, Inspection, Trust, and Controul of the <hi>Publick Authority,</hi> and <hi>Legal Magistracy.</hi>
+            </p>
+            <p>As the <hi>Same</hi> was Presented to the Right Honourable Sir <hi>Thomas Lane,</hi> Knight, Lord Mayor of the City of <hi>LONDON,</hi>
+            </p>
+            <p>By <hi>ROBERT MURRAY,</hi> Gent.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the PROPOSER, 1695/6.</p>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="tcp:61475:2"/>
+            <head>To the Right Honourable Sir <hi>THOMAS LANE,</hi> Knight, Lord Mayor of the City of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <hi>ENGLAND,</hi> at length, beginning to open her Eyes, to the great <hi>Convenience</hi> and <hi>Benifits</hi> arising from BANKS; And certain Private Persons (now) Attempting to <hi>Set up</hi> BANKS, which (how specious soever they may seem) can neither be so <hi>Extensive,</hi> nor so <hi>Sure,</hi> as if made <hi>Natio<g ref="char:EOLhyphen"/>nal,</hi> and under the <hi>Occonomy</hi> of <hi>Magistrates;</hi> the annexed PROPOSAL is Humbly Offered to Your Lordship's most <hi>Serious Conside<g ref="char:EOLhyphen"/>ration:</hi> The <hi>Intent</hi> of It is to lay down a <hi>Scheme,</hi> or <hi>Model</hi> of a BANK, so <hi>Formed,</hi> as to become a <hi>General National Good;</hi> A BANK, whose <hi>Basis</hi> will be so <hi>Firm</hi> and <hi>Sure,</hi> as to remain <hi>Ʋshaken</hi> while the <hi>Nation</hi> stands. By this <hi>Model,</hi> the <hi>Renown'd City</hi> of LONDON, at present Happy under Your Lordship's Wise and Excellent <hi>Administration,</hi> is made the <hi>Fountain,</hi> from whence the <hi>Benifits</hi> to arise by this BANK, are to <hi>Flow,</hi> and be <hi>Dif<g ref="char:EOLhyphen"/>fused</hi> throughout the whole <hi>Kingdom:</hi> The <hi>Other Cities,</hi> and <hi>Incorporated Burroughs,</hi> will also in <hi>Conjunction</hi> with, and <hi>Subordinate</hi> to LONDON, be made <hi>Instrumental</hi> to the <hi>General Good,</hi> intended by <hi>This Great De<g ref="char:EOLhyphen"/>sign;</hi> and will thereby <hi>Hereafter</hi> be no longer consider'd, as so many Lit<g ref="char:EOLhyphen"/>tle <hi>States,</hi> shut up within Themselves, and minding only their Particular <hi>Interests;</hi> who, if <hi>Hereby</hi> they Treasure up, and Accumulate much <hi>Wealth</hi> and <hi>Riches</hi> within <hi>Narrow Bounds,</hi> it is but to <hi>Diffuse</hi> it more strongly to the <hi>General Benefit.</hi>
+            </p>
+            <p>This BANK, my Lord, Founded <hi>By,</hi> and <hi>On</hi> the <hi>Government</hi> of the Great <hi>Metropolis</hi> of ENGLAND, Assisted, and Supported by all the <hi>Cities,</hi> and <hi>Chief Burroughs</hi> of the <hi>Kingdom,</hi> (Contriv'd for <hi>Mutual</hi> and <hi>Ʋniver<g ref="char:EOLhyphen"/>sal Advantage,</hi> and so <hi>Constituted,</hi> that no little private Sinister Ends can possibly be <hi>Advanc'd</hi> to the publick Detriment) cannot fail of a <hi>General Receiption</hi> and <hi>Applause.</hi> The <hi>Wise</hi> and <hi>Noble Zeal,</hi> for the <hi>Publick Service,</hi> Express'd by your Lordship, in Your most <hi>Excellent Speech,</hi> upon Your <hi>Election</hi> and <hi>Entrance</hi> into the <hi>Government</hi> of this Great <hi>City,</hi> gave a Happy <hi>Omen</hi> of the <hi>City</hi>'s Antient <hi>Reviving Glory;</hi> and the <hi>Establishment</hi> of this intended BANK, will Usher-in the <hi>Morning</hi> of that <hi>Day.</hi> As under Your Lordship's happy <hi>Administration</hi> of the <hi>City Government,</hi> this <hi>Great Design</hi> was <hi>Form'd</hi> and <hi>Set on Foot;</hi> so, I hope, and wish, it may find Your particular <hi>Favour</hi> and <hi>Encouragement.</hi> I beg Leave to observe to Your Lordship, the great Difference betwen the most Famous BANK of <hi>Amsterdam,</hi> (justly esteemed One of the pillars and props of <hi>Holland</hi> and the Several lately attempted BANKS in <hi>England:</hi> Ours begin on
+<pb n="3" facs="tcp:61475:3"/> Narrow and private Foundation; and, in their Natures, cannot be <hi>Extensive;</hi> nor <hi>Safe;</hi> and do intrust the Keeping and Dispose of <hi>Cash</hi> in the same Hands, under a private Management, uncontrouled by <hi>Publick Authority:</hi> This is a Method so Unsecure, and Impolitick, that one may equally wonder, that Men could hope to Impose such Things upon the <hi>Publick</hi> and that any could be found so Unthinking as to Credit them; for if they do indeed mean well, yet their Constitutions are Modelled to create Suspition: and what Fatal Consequence may not hap<g ref="char:EOLhyphen"/>pen, where so great a <hi>Trust</hi> is Reposed in Private Hands who naturally Contract Private and Separate <hi>Interests,</hi> divided and distinct from that of the <hi>Publick.</hi> The BANK of <hi>Amsterdam</hi> has all the diversity from our <hi>Bank</hi>-Attempts, that Things <hi>wisely</hi> and <hi>strongly Founded</hi> can have to such as are <hi>mean</hi> and <hi>weak;</hi> yet it is not intended, by these Observations, to reflect upon, or lessen any Part of that Good intended by the <hi>Parliament</hi> to the People, in their Establishment of the BANK of ENGLAND. In <hi>Holland,</hi> the Magistrates are <hi>Guardians;</hi> there all is Transacted under a <hi>Publick Direction</hi> and <hi>Comptrole,</hi> and with that Exactness of <hi>Manage<g ref="char:EOLhyphen"/>ment,</hi> and Severity of <hi>Discipline,</hi> that it is impossible for any Fraud to pass without quick Discovery; and when discovered, is Capitally Punished.</p>
+            <p>It must be confessed, that the <hi>Rise</hi> and <hi>Original</hi> of this BANK was not from a Formed Design of Establishing One; tho it became the Happy and Natural Consequent of a Wise and Just Appointment of the State.</p>
+            <p>The <hi>Government</hi> observing, that many Litigious Disputes happened, to the great Disquiet of their People and Interruption of <hi>Trade,</hi> about <hi>Receipts</hi> and <hi>Payments</hi> of <hi>Money;</hi> for prevention thereof, appointed a <hi>Publick Office</hi> for <hi>Receipts</hi> and <hi>Payments,</hi> whose Books were made an <hi>Authentick Registry</hi> of those Matters, and gave an Easie Decision to all such Controversies: This <hi>Office</hi> opened its Books with bare Walls, and without any <hi>Cash;</hi> only Clreks attending to make Entry of all <hi>Re<g ref="char:EOLhyphen"/>ceipts</hi> and <hi>Payments</hi> there made. In a little time the Merchants and Traders, finding it troublesome to carry <hi>Money</hi> to and fro, chose rather to Lodge their <hi>Money</hi> in this <hi>Office;</hi> upon which the <hi>City</hi> and <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> became <hi>Responsible</hi> for the safe Custody of all such <hi>Monies;</hi> and thus was this Office easily and naturally converted into a BANK.</p>
+            <p>
+               <hi>Money</hi> Lodged in BANK, was in the <hi>Bank</hi>-Books placed to the Pro<g ref="char:EOLhyphen"/>prietor's Folio or Accompt; and, from time to time, transferred, by Di<g ref="char:EOLhyphen"/>rection, to the Accompts of divers persons, for the person to Receive; who found it as Safe and Convenient for him also to continue the <hi>Money</hi> where it was: So that frequently <hi>One Hundred Pounds</hi> in BANK, was passed over from one Accompt to another, an Hundred Times, and consequently supplied the <hi>Place</hi> of Ten Thousand <hi>Pounds,</hi>
+               <pb n="4" facs="tcp:61475:4"/> every Body finding it more Easie, Convenient, and Safe, to continue his <hi>Money</hi> in the BANK, than to have it in their Private Coffers.</p>
+            <p>The <hi>Government</hi> further thought fit to Injoyn, that all Foreign <hi>Bills of Exchange</hi> should be Paid in BANK: This was a wise Precaution of the State; for it not only added Strength and Reputation to the BANK, but did great and signal Good to the Trade in General, and to abundance of particular Merchants, and Others, by preventing the many great Disorders that happen by disappointments, in <hi>Payment</hi> of <hi>Money</hi> Intrusted in Private Hands, whose Death, Insolvency, or Frauds, subjected such Payments to frequent and ruinous Accidents.</p>
+            <p>And thus, my Lord, I have briefly shewn, that the BANK of <hi>Am<g ref="char:EOLhyphen"/>sterdam</hi> (which is incomparably the best and greatest in the Word) is Built on these Three Pillars.</p>
+            <p>FIRST, An <hi>Authentick Registry</hi> of all <hi>Receipts</hi> and <hi>Payments.</hi>
+            </p>
+            <p>SECONDLY, The Enjoyning the <hi>Payment</hi> in BANK of all Foreign <hi>Bills of Exchange:</hi> And,</p>
+            <p>THIRDLY, The <hi>City</hi> and <hi>Government</hi> undertaking the Security of all <hi>Money</hi> in BANK.</p>
+            <p>The like Method taken by the <hi>City</hi> of <hi>London,</hi> &amp;c. Must have a like admirable Effect. How far the <hi>City</hi> have already a Power to make <hi>Acts</hi> or <hi>By-Laws</hi> to this End, is not here to be detetmined or Inquired; but if any Additional <hi>Power</hi> be wanting, it seems highly propable to be obtained, in order to so good an End; wherein the <hi>Interest</hi> of the <hi>City</hi> is not sought but in Conjunction with that of the rest of the Nation.</p>
+            <p>I need not insist upon the many great and happy Consequents, that must need attend so Wise and Noble an Establishment, they are too Obvious to escape your Lordship's Notice: I shall only name, in Gene<g ref="char:EOLhyphen"/>ral, the Retriving the Antient Glory and Grandeur of the <hi>City,</hi> and Rai<g ref="char:EOLhyphen"/>sing it far above all former Heights, and the Encreasing in the <hi>City</hi> the Ability and <hi>Power</hi> of Serving the Crown upon sudden and great Emer<g ref="char:EOLhyphen"/>gencies, as they have often done with the Loan of very great Sums.</p>
+            <p>And this is an Advantage wherein the <hi>City</hi> can suffer no Rival, but highly to its Loss; therefore for the <hi>City</hi> to be lessened there, is to be Touched in a most sensible Part.</p>
+            <p>And now, my Lord, I humbly beg your <hi>Pardon</hi> for the Liberty of this Address; It is meant only in Order to the Service and Welfare of the <hi>English</hi> NATION in general, and the Honourable <hi>City</hi> of <hi>LONDON</hi> in particular, which being Sincerely so, and far more in my Desires and View than any <hi>Private Interest</hi> of Mine; and being Tendered to Your Lordship, with all Humble Duty and Submission, I am full of Hopes, from the Value of the Thing, the Uprighness of find, not barely your <hi>Pardon,</hi> but even your <hi>Accept<g ref="char:EOLhyphen"/>ance, Protection,</hi> and <hi>Patronage;</hi> which are the ardent Wishes of, <hi>My Lord,</hi>
+            </p>
+            <closer>
+               <signed>Your Lordships most Humble and Obedient Servant, <hi>Robert Murray.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="proposal">
+            <pb n="1" facs="tcp:61475:5"/>
+            <head>A PROPOSAL for a National BANK, Consisting of LAND, or any O<g ref="char:EOLhyphen"/>ther Valuable <hi>Securities or Depositums;</hi> With a GRAND CASH, for <hi>Returns of Money</hi> and <hi>Circulation of the Bank Credit,</hi> &amp;c. The whole to be under the Care, Inspection, Trust, and Controul of the <hi>Publick Authority,</hi> and <hi>Legal Magistracy.</hi>
+            </head>
+            <byline>By <hi>ROBERT MƲRRAY,</hi> Gent.</byline>
+            <p>IT is by long and daily Experience found, That the Want of <hi>Publick Bank,</hi> and <hi>Method</hi> for Re<g ref="char:EOLhyphen"/>mitting <hi>Mony</hi> at a Certain and Reasonable Rate, <hi>To</hi> and <hi>From</hi> the several Parts of these <hi>Kingdoms;</hi> and of Discounting <hi>Bank Foreign</hi> and <hi>In-land Bills,</hi> at a like Certainty; is a mighty Impediment to <hi>Trade.</hi>
+            </p>
+            <p>AND tho' it may be Objected. That <hi>Banks</hi> are not safe under a <hi>Monarchy,</hi> Yet such <hi>Objection</hi> holds only in <hi>Countries</hi> under the Dominion of an <hi>Absolute</hi> and <hi>Dispotical Power:</hi> But where the <hi>Law</hi>'s take Place, as in and under <hi>Regulated Monarchies,</hi> every Man is Preserved in his due <hi>Property,</hi> and as Secure as in other <hi>Free Countries,</hi> where <hi>Banks,</hi> are in Use, and do Thrive.</p>
+            <p>THE great Conveniencies attending <hi>Banks,</hi> and the Difficulty of <hi>Trade,</hi> where <hi>Banks</hi> are wanting, shew their Necessity and Use in all <hi>Trading Countries,</hi> among <hi>Merchants</hi> and <hi>Traders.</hi> To avoyd the Trouble of <hi>Telling</hi> and <hi>Re-telling, Carrying</hi> and <hi>Re-carrying,</hi> and the Danger and Loss of <hi>Brass</hi> and <hi>Counterfeit Mony,</hi> Men are under a sort of Neces<g ref="char:EOLhyphen"/>sity to Trust their <hi>Cash</hi> in the Hands of <hi>Private Bankers</hi> and <hi>Goldsmaths,</hi> where <hi>Publick Banks</hi> are not Established: And this they continue to do; notwithstanding the incredible Losses often sustain'd by frequent <hi>Failures,</hi> and <hi>Insolvency</hi> of Many, to the Ruine of those that Trust them.</p>
+            <p>AND tho' <hi>Some</hi> (not knowing better Expedients to render <hi>Private Banks</hi> more Safe, and to en<g ref="char:EOLhyphen"/>courage and allure all Persons to lodge their <hi>Cashin</hi> their Hands? think the <hi>Credits</hi> and <hi>Estates</hi> of several Persons <hi>Joyn'd together,</hi> of <hi>Three, Four,</hi> or <hi>Five Hundred Thousand Pounds</hi> value, made over to <hi>Trustees,</hi> a <hi>Sufficient Security</hi> for that Purpose: Yet it is most certain, that such <hi>Security</hi> is not <hi>Sufficient,</hi> in Case a <hi>Cash</hi> of <hi>Four</hi> or <hi>Five</hi> Times that value, in their Keeping, prove a Temptation; for they may easily Convey or Convert the same to their own Use, and leave the <hi>Security</hi> to Compound the Debt: From whence it may Rationally be concluded, That no <hi>Bank</hi> can be Safe, but what is <hi>National,</hi> and under the <hi>Publick Care, Inspection,</hi> and <hi>Controul</hi> of <hi>Magistracy</hi> agreeable to <hi>That</hi> most Famous <hi>Bank</hi> of <hi>Holland,</hi> (justly esteem'd the Best and Greatest in the <hi>World</hi>) where all is Transacted under the <hi>Direction</hi> and <hi>Controul</hi> of <hi>Government;</hi> who are <hi>Guardians</hi> of the <hi>Bank,</hi> and suffer no <hi>Fraud,</hi> when Discover'd, to pass <hi>There</hi> Unpunished.</p>
+            <p>THE <hi>Bank</hi> intended by this <hi>Proposal</hi> is to be under the <hi>Authority, Care, Inspection,</hi> and <hi>Controul</hi> of the <hi>Known, Legal</hi> and <hi>Publick Magistracy,</hi> as most Consonant to <hi>Reason, Nature,</hi> and <hi>Publick Oeconomy.</hi> The <hi>Magistrate</hi> is the <hi>Father</hi> of the <hi>Great Family,</hi> the <hi>Guardian</hi> and <hi>Protector</hi> of the <hi>People,</hi> and the <hi>True Fountain,</hi> from whence (they ought to expect) should flow all Things necessary to their <hi>Good</hi> and <hi>Happiness.</hi> A <hi>Bank</hi> thus <hi>Founded,</hi> stands upon its True <hi>Basis:</hi> Nor can any Thing be accounted <hi>Sacred,</hi> or <hi>Inviolable,</hi> if <hi>Magistracy, Government,</hi> and <hi>Publick Authority,</hi> are not so. And indeed, the Attempt of Private Persons to <hi>Set<g ref="char:EOLhyphen"/>up Banks,</hi> are a kind of Invasion of the <hi>Magistrates Province,</hi> and (at best can never be judged so Secure, as <hi>One</hi> under the <hi>Care, Inspection,</hi> and <hi>Controul</hi> of <hi>Government.</hi> In <hi>Nature</hi> the <hi>Head</hi> always provides for the Ease and Good of the <hi>Members;</hi> and in the <hi>Body Politick,</hi> (which is always Best, when it most Resembles <hi>Nature</hi>) the <hi>Magistrates Office</hi> is the same. In <hi>Amsterdam, Genoa,</hi> and <hi>Hamburgh,</hi> the Publick <hi>Government</hi> takes Care of the <hi>Bank;</hi> and indeed, it is a <hi>Solecism</hi> to oppose <hi>Constitution</hi> so well fonnd<g ref="char:EOLhyphen"/>ed in Nature Reason and Policy, and Supported by the Example and <hi>precedent</hi> of <hi>Three Illustrious States.</hi>
+            </p>
+            <p>IT is confessed, That the <hi>Rise</hi> and <hi>Original</hi> of the <hi>Bank</hi> of <hi>Amsterdam,</hi> was not from any Form'd De<g ref="char:EOLhyphen"/>sign of Establishing <hi>One;</hi> but the Happy Result of a Wise and Prudent Order of <hi>State,</hi> which was the <hi>Foundation</hi> and <hi>Ground-work</hi> of the Whole <hi>Build<g ref="char:EOLhyphen"/>ing:</hi> viz.</p>
+            <p>FIRST, To prevent Disputes, that might happen about <hi>Receipts</hi> and <hi>payments</hi> of <hi>Mony,</hi> to the great Disquiet of their People, and Interruption of <hi>Trade,</hi> A certain <hi>Place</hi> or <hi>Office</hi> was Erected, where all <hi>Re<g ref="char:EOLhyphen"/>ceipts</hi> and <hi>Payments,</hi> exceeding a limited Sum, might be made.</p>
+            <p>SECONDLY, They enjoyn'd, that all <hi>Receipts</hi> and <hi>Payments,</hi> exceeding <hi>Three Hundred Guilders,</hi> or <hi>Thirty Pounds sterling,</hi> should be made There: <hi>Books</hi> were accordingly provided, and <hi>Clerks</hi> to attend and keep an <hi>Authentick Registry</hi> of all such <hi>receipts</hi> and <hi>payments,</hi>
+            </p>
+            <p>THIRDLY, The <hi>Merchants,</hi> and other <hi>Traders,</hi> finding it Troublesome to Cary <hi>Mony</hi> to and fro, chose rather to leave the same in this <hi>Office;</hi> and thereupon the <hi>City</hi> and <hi>Government</hi> became Respon<g ref="char:EOLhyphen"/>sible for the Safe Custody of all such <hi>Moneys.</hi>
+            </p>
+            <p>FOURTHLY, The <hi>Mony</hi> Lodged in this <hi>Office</hi>
+               <pb n="2" facs="tcp:61475:6"/> was placed to the <hi>Proprietor</hi>'s Folio and Accompt; and, by Direction, Transferr'd from one Accompt to another, an <hi>Hundred</hi> Times; and consequently, <hi>One Hundred Pounds</hi> supply'd the place of <hi>Ten Thou<g ref="char:EOLhyphen"/>sand Pounds;</hi> every Body finding it more Easie, Safe, and Convenient to continue their <hi>Money</hi> in the <hi>Office,</hi> where it was, than to have it in their private <hi>Cof<g ref="char:EOLhyphen"/>fers:</hi> And thus this <hi>Office</hi> was Converted into a <hi>Bank.</hi>
+            </p>
+            <p>FIFTHLY, They Enjoyn'd also, That all <hi>Foreign Bills</hi> of <hi>Exchange</hi> should be Paid in <hi>Bank,</hi> to prevent Disappointments in payment of <hi>Money,</hi> entrusted in private Hands; which sometimes might happen either by the <hi>Death, Insolvency,</hi> or <hi>Frauds</hi> of some Cunning and Deceitful Men.</p>
+            <p>THE like <hi>Method</hi> duly Observed in <hi>This Nation</hi> cannot fail of the like <hi>Good Effect;</hi> and tho' the <hi>Cities,</hi> and <hi>Incorporated Burroughs</hi> of <hi>England,</hi> could not, by any <hi>Acts,</hi> or <hi>By-Laws,</hi> Enforce the Observa<g ref="char:EOLhyphen"/>tion of These, or the like <hi>Necessary Rules,</hi> to so Good an End: Yet if <hi>Offices,</hi> to this purpose, were Erected within <hi>This City,</hi> with the rest of the <hi>Cities</hi> and <hi>Chief Burroughs</hi> of <hi>England,</hi> there is no doubt, but the great Ease and Convenience, joyn'd with the Propos'd <hi>Security,</hi> would sooner induce the <hi>Country</hi> to Commit the Keeping of their <hi>Cash</hi> unto Them, than to Lodge the same in Private Hands, as <hi>Bankers</hi> or <hi>Goldsmiths;</hi> as many have heretofore done, to their Incredible Loss and Damage: And therefore, I shall, in great Measure, make <hi>This</hi> the <hi>Pattern</hi> and <hi>Exemplar</hi> of the Propos'd <hi>Model.</hi>
+            </p>
+            <p>AND seeing the <hi>Money</hi> of the <hi>Nation</hi> cannot be found a <hi>Stock</hi> sufficient to supply all Persons, to<g ref="char:EOLhyphen"/>wards that Increase of <hi>Trade,</hi> as a greater Quantity, if it could be had, would do: And that the <hi>Credit</hi> of <hi>Money-Banks</hi> cannot be Legally and Honestly stretched or extended beyond the <hi>Stock</hi> of <hi>Money</hi> in <hi>Cash;</hi> and so long as the <hi>Money</hi> lies Bury'd there, the <hi>Nation</hi> seems to be depriv'd of the Free Use of so much <hi>Money,</hi> which is the same <hi>Ʋnactive-Lump</hi> in the <hi>Chest,</hi> as in the <hi>Mine:</hi> And this <hi>Nation,</hi> both in Extent of <hi>Territory,</hi> and <hi>Natural Product,</hi> far ex<g ref="char:EOLhyphen"/>ceeding <hi>That</hi> of <hi>Holland,</hi> The Propos'd <hi>Bank</hi> shall consist of <hi>All Things</hi> capable of being a <hi>Fund</hi> of <hi>Credit,</hi> and Convertable to <hi>Money</hi> at any Time, as <hi>Lands Ground-Rents,</hi> &amp;c. whereby this <hi>Bank</hi> will be more Extensive and Safe, than any other <hi>Money, Bank;</hi> and consequently, Preferrable: So that the <hi>Credit</hi> of this <hi>Bank</hi> (like a perpetual <hi>Spring</hi>) can never be Exhausted, or Drawn dry; but shall be Commensurate to all the Necessities and Occa<g ref="char:EOLhyphen"/>sions of the <hi>Nations:</hi> And may be Extended as much beyond the <hi>Stock;</hi> of the <hi>Nation</hi> in <hi>Cash,</hi> as the <hi>Wealth</hi> and <hi>Substance</hi> thereof, in other Things, Ex<g ref="char:EOLhyphen"/>ceed it. Nevertheless, since <hi>Credit</hi> cannot be Di<g ref="char:EOLhyphen"/>vided and Fractioned into so many parts as <hi>Coyn,</hi> to Answer all Purposes, it will not so conveniently Serve alone, without <hi>Coyn;</hi> and <hi>Coyn</hi> of its self cannot Suffice, without <hi>Credit.</hi> It is therefore ne<g ref="char:EOLhyphen"/>cessary, there should be provided and Raised a <hi>Com<g ref="char:EOLhyphen"/>petent Stock</hi> in <hi>Cash,</hi> to assist it in the <hi>Circulation</hi> thereof.</p>
+            <p>IT is therefore Propos'd, That a <hi>Stock</hi> of <hi>One Million</hi> of <hi>Pounds</hi> may be Subscribed; whereof none to Hold or Subscribe in his own Proper Right, more than <hi>Five Thousand Pounds;</hi> and if by the Gift, or the Decease of any Person, or otherwise any Person exceed that Proportion, He is to Sell so much, before the next <hi>Audit,</hi> as will Reduce him to his <hi>Original Soc<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k.</hi>
+            </p>
+            <p>THAT One <hi>per Cent.</hi> of the <hi>Stock</hi> or <hi>Subscribed Sum,</hi> shall be left <hi>Free</hi> to the <hi>First Proposer,</hi> or <hi>Ʋn<g ref="char:EOLhyphen"/>dertaker;</hi> and that every <hi>Hundred Pounds</hi> Subscri<g ref="char:EOLhyphen"/>bed, and paid into the <hi>Bank</hi> shall be Reckon'd <hi>One</hi> entire <hi>Share</hi> in the <hi>Stock;</hi> whereof One <hi>Tenth Part</hi> to be paid down within <hi>One</hi> Month after the <hi>Books</hi> are Fill'd up, and Another <hi>Tenth part</hi> within <hi>Three</hi> Mouths after; and so the Rest in Order, till the <hi>Whole</hi> be brought in, and Compleated; whereof due Notice will be first given, by such as the said <hi>Subscribers</hi> shall first Choose for that purpose.</p>
+            <p>THAT <hi>Ten Thousand Shares</hi> being Advanc'd at <hi>One Hundred</hi> Pounds <hi>per Share,</hi> makes <hi>One Million</hi> of Pounds; which Summ will be found a <hi>Stock</hi> Suffi<g ref="char:EOLhyphen"/>cient to Circulate the said <hi>Credit,</hi> from Time to Time issued, when requir'd, to Answer, all emergent Occasions whatsoever,</p>
+            <p>THAT the said Subscribed Summ shall, for better Security, be Deposited in the <hi>Chamber</hi> of <hi>London,</hi> and the Rest of the <hi>Cities, Chief Burroughs,</hi> and <hi>Shire-Towns,</hi> of <hi>England,</hi> &amp;c. according to the fol<g ref="char:EOLhyphen"/>lowing <hi>Distribution,</hi> viz.
+<list>
+                  <item>LONDON.</item>
+                  <item>EDENBURGH.</item>
+                  <item>DUBLIN.</item>
+               </list>
+               <list>
+                  <item>Bristol.</item>
+                  <item>Bridgwater.</item>
+                  <item>Bedford.</item>
+                  <item>Buckingham.</item>
+                  <item>Beaumaris.</item>
+                  <item>Bath and Wells.</item>
+                  <item>Chester.</item>
+                  <item>Canterbury.</item>
+                  <item>Chichester.</item>
+                  <item>Cambridge.</item>
+                  <item>Coventry.</item>
+                  <item>Carlisle.</item>
+                  <item>Colchester.</item>
+                  <item>Chelmsford.</item>
+                  <item>Carnarvan.</item>
+                  <item>Derby.</item>
+                  <item>Dorchester.</item>
+                  <item>Exeter.</item>
+                  <item>Falmouth.</item>
+                  <item>Gloucester.</item>
+                  <item>Guildford.</item>
+                  <item>Hereford.</item>
+                  <item>Hartford.</item>
+                  <item>Huntington.</item>
+                  <item>Harwich,</item>
+                  <item>Hull,</item>
+                  <item>Ipswich.</item>
+                  <item>Leverpool,</item>
+                  <item>Lyn.</item>
+                  <item>Lancaster.</item>
+                  <item>Leicester.</item>
+                  <item>Lincoln.</item>
+                  <item>Maidstone.</item>
+                  <item>Monmouth.</item>
+                  <item>Newcastle,</item>
+                  <item>Norwich.</item>
+                  <item>Nottingham.</item>
+                  <item>Northampton.</item>
+                  <item>Oxford,</item>
+                  <item>Plymouth.</item>
+                  <item>Pembrook.</item>
+                  <item>Portsmouth,</item>
+                  <item>Reading.</item>
+                  <item>Rochester.</item>
+                  <item>Southampto<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>Stamford.</item>
+                  <item>Salsbury.</item>
+                  <item>Shrewsbury.</item>
+                  <item>Stafford.</item>
+                  <item>Taunton.</item>
+                  <item>Truro.</item>
+                  <item>Winchester.</item>
+                  <item>Worchester.</item>
+                  <item>Warwick.</item>
+                  <item>York.</item>
+                  <item>Yarmouth.</item>
+               </list>
+            </p>
+            <pb n="3" facs="tcp:61475:7"/>
+            <p>THAT there be Erected an <hi>Authentick Registry</hi> within the <hi>City</hi> of <hi>London,</hi> and each of the <hi>Cities,</hi> and <hi>Chief Burrought</hi> or <hi>Shire-Towns</hi> of <hi>England,</hi> &amp;c. where all <hi>Receipts</hi> and <hi>payments</hi> of <hi>Money,</hi> exceed<g ref="char:EOLhyphen"/>ing <hi>Twenty</hi> or <hi>Thirty Pounds,</hi> may be made: and <hi>Books</hi> provided with <hi>Clerks</hi> to Attend, to Enter and Keep all such <hi>Receipts</hi> and <hi>payments,</hi> accordingly. And for the Security of all such as shall think fit to Lodge their <hi>Cash</hi> there. The said <hi>Cities, Towns,</hi> and <hi>Magistrates,</hi> to become Responsible for the <hi>Safe Custody</hi> of all such <hi>Money,</hi> as the <hi>Country</hi> is now Re<g ref="char:EOLhyphen"/>sponsible for all <hi>Money</hi> Robb'd on the Road; which may be done with much less Danger and Hazard.</p>
+            <p>THAT all <hi>Bills of Exchange</hi> should likewise be paid under like <hi>Caution</hi> and <hi>Security,</hi> into these <hi>Offices;</hi> which, in effect, will Create so many <hi>Grand Cashes,</hi> or <hi>Banks,</hi> within the <hi>Three Kingdoms,</hi> &amp;c. one or more in each <hi>County;</hi> which may, in Time, like<g ref="char:EOLhyphen"/>wise become the <hi>General Receivers</hi> of all <hi>Publick Taxes;</hi> and must be Responsible for all <hi>Money</hi> De<g ref="char:EOLhyphen"/>posited upon this <hi>Design:</hi> And, for their Encou<g ref="char:EOLhyphen"/>ragement may advance any Summ to the <hi>Stock</hi> in each <hi>County,</hi> not exceeding <hi>Five Thousand Pounds;</hi> and have a Share of the Profits, or in Proportion to what they <hi>put in;</hi> or the same to be supply'd by Others.</p>
+            <p>THE late <hi>Miscarriage</hi> in the <hi>Chamber</hi> of <hi>London,</hi> can be no Objection because the <hi>Money</hi> is not Lent but Lodg'd there, and is therefore Sacred and Inviolable, and subject to the <hi>Rules, Orders,</hi> and <hi>Directions</hi> of the <hi>Governours,</hi> and <hi>Directors</hi> of the <hi>Bank;</hi> and which is as much at the <hi>Dispose</hi> and <hi>Command</hi> of each <hi>Proprietor,</hi> as if the same were in his own <hi>Coffers:</hi> And consequently, the Best and Sa<g ref="char:EOLhyphen"/>fest <hi>Repsiotory,</hi> much better than to Intrust the Keeping and Dispose of <hi>Cash</hi> in the same Hands, under a private Management, uncontroul'd by <hi>Publick Authority,</hi> subject to many Contingen<g ref="char:EOLhyphen"/>cies, by <hi>Death, Frauds,</hi> and <hi>Insolvencies;</hi> which can<g ref="char:EOLhyphen"/>not happen here, where the <hi>Cash</hi> and <hi>Management.</hi> are in different Hands, and under a <hi>Publick</hi> and <hi>Na<g ref="char:EOLhyphen"/>tional Controul;</hi> So that every Body may, <hi>prima facie,</hi> see his Security in the <hi>Frame</hi> and <hi>Constitution</hi> of this <hi>Bank,</hi> whithout depending solely on the <hi>Re<g ref="char:EOLhyphen"/>putation</hi> and <hi>Credit</hi> of <hi>Private Persons,</hi> as in other <hi>Banks.</hi> This will occasion and encourage Returus of vast and incredible Sums of <hi>Money,</hi> which often lies dead in private Hands, for want of such a <hi>Con<g ref="char:EOLhyphen"/>veniency,</hi> as is hereby Propos'd.</p>
+            <p>THAT this <hi>Money</hi> shall be Applyed for the <hi>Ex<g ref="char:EOLhyphen"/>change</hi> or <hi>Return</hi> of <hi>Moneys To,</hi> and <hi>From</hi> the afore<g ref="char:EOLhyphen"/>said places, <hi>&amp;c.</hi> on reasonable Terms; and for the Discounting <hi>Bank, Foreign, In-land Bills,</hi> and <hi>Ex<g ref="char:EOLhyphen"/>change Tallies;</hi> and for Setling <hi>Staples</hi> for Receipts of Goods, as <hi>Tinn Lead, Wooll, Hemp, Flax,</hi> &amp;c. up<g ref="char:EOLhyphen"/>on which <hi>Credit</hi> may be given; from whence the <hi>Poor</hi> of each <hi>Parish</hi> may be stored with <hi>Stock</hi> and <hi>Materials,</hi> to set them on <hi>Work,</hi> and to Keep them in Constant and Full <hi>Employment:</hi> The <hi>Poor</hi>'s Tax, Appropriated and Settled for that purpose, amount<g ref="char:EOLunhyphen"/>ing (in the Whole) to <hi>Six Hundred Pounds</hi> pet Annum; which is a <hi>Sufficient Fund</hi> for <hi>Seven</hi> or <hi>Eight</hi> Millions. The Credit of the said <hi>Staple,</hi> or <hi>Bank,</hi> to be paid off, Annually, as the said <hi>Poors Tax</hi> is, or shall be Collected, and brought in. The Poor thus Employed, will Demonstrably Quadrible the <hi>Stock</hi> every Year, whereby they will be well <hi>Fed, Cloathed,</hi> and <hi>Otherwise Maintained,</hi> and the <hi>Nation</hi> Enriched; the Diminution of our <hi>Cash</hi> daily and necessarily carried out be prevented, by the Mak<g ref="char:EOLhyphen"/>ing of <hi>Twine, Cordage, Cabling, Sail-Cloath, Fishing. Lines, Netts,</hi> &amp;c. in great Abundance, which we now Import, to our great Dishonour, Loss, and Da<g ref="char:EOLhyphen"/>mage; and which, in effect, will occasion much more Wealth, Trade and Riches, than all the Trade in the Nation besides.</p>
+            <p>THAT this <hi>Summ,</hi> thus applied, will bring in (at least) Three or Four Hundred Thousand Pounds <hi>per Annum;</hi> and the <hi>Bank,</hi> in time, arrive to that Reputation, That the Nobility and Gentry will bring in, and Lodge their <hi>Rents</hi> and <hi>Cash</hi> in these <hi>Banks,</hi> within their respective <hi>Towns</hi> and <hi>Divisions,</hi> as the best and safest <hi>Repositories</hi> where their Accompts will be Fairly and Orderly kept, du<g ref="char:EOLhyphen"/>ly Stated and Balanced, and their said <hi>Cash</hi> imploy<g ref="char:EOLhyphen"/>ed as they shall see Occasion.</p>
+            <p>THAT the <hi>Government</hi> may be Supplyed with One or more <hi>Million</hi> on <hi>Parliamentary Funds,</hi> at Three or Four <hi>per Cent. per Annum;</hi> and that all <hi>Tallies,</hi> on like Security, as well those on Remote <hi>Funds,</hi> as Other, may be indifferently Discounted; the <hi>Bank</hi> Credit being mutually Received, and Taken in the <hi>Exchequer;</hi> or in proportion to the <hi>Money</hi> Lent, or <hi>Credit</hi> given the Crown.</p>
+            <p>THAT <hi>Freeholders,</hi> and <hi>Landed Men,</hi> may have on every Hundred Pounds <hi>per Annum, Fifteen Hun<g ref="char:EOLhyphen"/>dred Pounds,</hi> after the Rate of Four Pounds <hi>per Cent. per Annum;</hi> who may pay off, or continue the Principal for what Term of Years they please: And shall have a <hi>Rebate</hi> of <hi>Interest,</hi> as any Part of the <hi>Principal</hi> is paid in, they paying <hi>Interest</hi> from Time to Time, as the same grows Due: But, in Default of due Payment, as aforesaid, then to Pay for, and During the remaining Term, after the Rate of five Pounds <hi>per Cent. per Annum,</hi> unless permitted to Compound, the Increment of <hi>Interest</hi> not exceeding Seven Years Purchase, the same being <hi>Registred</hi> with their <hi>Incumbrances</hi> upon <hi>Oath,</hi> in the Head or Shire-Town of the County; and those within the City of <hi>London,</hi> County of <hi>Middlesex,</hi> and Bourrough of <hi>Southwark,</hi> in the Court of <hi>Hust<g ref="char:EOLhyphen"/>ings</hi> at the <hi>Guild-hall, London;</hi> and that all <hi>Houses,</hi> that shall be taken in Security in <hi>Bank,</hi> be <hi>Insured</hi> a<g ref="char:EOLhyphen"/>gainst <hi>Fire.</hi>
+            </p>
+            <p>THAT all Persons, capable of employing their Time to good Advantage, may be Furnished with Stock and Materials for that Purpose, they con<g ref="char:EOLhyphen"/>forming to the <hi>Rules</hi> and <hi>Methods</hi> of the <hi>Bank</hi> whereby the same may be Secured.</p>
+            <p>THAT such of the City <hi>Orphans,</hi> and other Bond
+<pb n="4" facs="tcp:61475:8"/>
+               <hi>Creditors,</hi> comprehended and Secured by Act of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> and not admitted into the <hi>Orphans</hi> Bank, may Subscribe here their Respective Credits in the Chamber of <hi>London.</hi>
+            </p>
+            <p>THAT <hi>Bank</hi> Bills of Credit may be Discounted at any time, by the <hi>Bank &amp;c.</hi> at One <hi>per Cent.</hi> And that a Rebate of One <hi>per Cent.</hi> shall be allowed up<g ref="char:EOLhyphen"/>on all Bills of <hi>Credit</hi> paid in Discharge of any Sum due to the <hi>Bank;</hi> but no Allowance or Rebate upon the Payment in of <hi>Cash.</hi>
+            </p>
+            <p>THAT One and Twenty, or One and Thirty Per<g ref="char:EOLhyphen"/>sons, be chosen out of the Subscribers, to Manage the said Stock at <hi>London;</hi> whereof one Third part to go out Annually, and Others to be Elected in their Room, who may not be Elegible again, until they be all <hi>out</hi> as many Years as they continued <hi>in;</hi> whereof the Lord Mayor to be the First Go<g ref="char:EOLhyphen"/>vernor of the <hi>Bank.</hi>
+            </p>
+            <p>THAT no Person shall be capable of being cho<g ref="char:EOLhyphen"/>sen <hi>Governour, Deputy-Governour, Assistant,</hi> or <hi>Director</hi> or the like place of Trust, unless he be Possest of at least <hi>Two Thousand Pounds</hi> in the <hi>Bank;</hi> and none to have <hi>Votes</hi> in the Election of any to Offices, as aforesaid, that have not, in their own proper <hi>Right</hi> in <hi>Bank,</hi> Five Hundred Pounds: nor any to have more than One <hi>Vote,</hi>
+            </p>
+            <p>THAT the <hi>Comptroller,</hi> and <hi>Auditor-Generals</hi> of Accompts, being a great and publick Trust, ought to have a publick Sanction, in case the Proposed Model obtain Approbation in <hi>Parliament,</hi> or be chosen by the <hi>Common-Hall,</hi> or Major part of the <hi>Subscribers</hi> present; who are all to be Summoned for that purpose, without Exception: The One by Attesting the real Value of the <hi>Credit</hi> Issued and Warranted by the <hi>Bank,</hi> (which is the <hi>Mint</hi> for <hi>Se<g ref="char:EOLhyphen"/>curity,</hi> as the <hi>Tower</hi> for <hi>Mony</hi>) is by the Nature of his <hi>Trust</hi> and <hi>Office,</hi> a Check upon the whole, and to prevent, as the Other is to detect Frauds and Mistakes if any happen; that so the Credit may be known to have a Real Extrinsick Value, constantly adhering to it, equalling Coyned Pieces of <hi>Gold</hi> and <hi>Silver Money;</hi> which, without doubt, will facilitate the Currency of the <hi>Credit</hi> all over the Nation, and very much add to the Honour and Reputation of the said <hi>Bank.</hi>
+            </p>
+            <p>THERE must also be a <hi>General Surveyor</hi> of all such Estates, as are or shall be engaged to the <hi>Bank;</hi> who must keep an exact <hi>Registry</hi> of the <hi>Contents</hi> and <hi>Quality</hi> of all such Estates, with their Buttings and Bonndings.</p>
+            <p>THAT the Cities, and chief Burroughs of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> being Bodies Politick, and under a perpetual Succession, that never Die: The Mayor and Com<g ref="char:EOLhyphen"/>monalty of each Corporation should be the <hi>Trustees</hi> for the <hi>Bank,</hi> to whom all Mortgages should be made, and by them Defeazanced; who cannot be suppo<g ref="char:EOLhyphen"/>sed Guilty of like Extortion or unworthy Practices, as is incident to some Private Men, their Heirs, Guardians, Executors, Administrators or Assigns, as her etofore, to the Ruine of many considerable Families and Estates: And that an Office should be Erected in each County, for keeping an exact <hi>Re<g ref="char:EOLhyphen"/>gistry</hi> of all such Estates, so engaged to the <hi>Bank,</hi> with their Incumbrances; whereof the General <hi>Registry</hi> or <hi>Office,</hi> to be kept at <hi>London,</hi> to which the rest of the said <hi>Offices</hi> or <hi>Banks</hi> must Refer and Accompt; whereby all Persons may be secured a<g ref="char:EOLhyphen"/>gainst any Corrupt Designs and Practices for the Future.</p>
+            <p>ALL Accompts shall be Stated, Audited, and Bal<g ref="char:EOLhyphen"/>lanced at the End of every Year; and the Profits divided, according to every Mans <hi>Interest</hi> or <hi>Share</hi> in the Stock.</p>
+            <p>THE <hi>Custos Rotulorum,</hi> or Lord <hi>Lieutenant,</hi> the <hi>High-Sheriff,</hi> the Two <hi>Knights of the Shire,</hi> assisted by the <hi>Burgesses</hi> Serving for the Place, and <hi>Clerk of the Peace,</hi> for the time being, shall or may, <hi>ex Officio,</hi> have the Superintendency of the <hi>Bank</hi> in each County; and upon Auditing the Accompts, annually Arrest the same.</p>
+            <p>
+               <hi>THAT</hi> the <hi>King</hi> be humbly Petitioned to be the Sovereign Patron, and Protector of the said <hi>Bank;</hi> and that Four <hi>Lords,</hi> and Eight <hi>Commoners,</hi> chosen in <hi>Parliament,</hi> have the Supreme <hi>Guardianship, In<g ref="char:EOLhyphen"/>spection</hi> and <hi>Superintendency</hi> over It; and to be Pe<g ref="char:EOLhyphen"/>titioned for that Purpose.</p>
+            <p>
+               <hi>THAT</hi> the <hi>Stock</hi> shall not be Sunk, or otherwise drain out, but by <hi>Selling</hi> or <hi>Transferring</hi> the same (in the <hi>Transfer</hi>-Book, Provided for that Purpose) to some Order.</p>
+            <p>
+               <hi>THAT</hi> this will Eucourage all Persons, not only to <hi>Trust,</hi> but <hi>Remit</hi> their <hi>Cash</hi> this Way, rather than to hazard the same by Carriers, or in Portmantua's; and consequently will prevent Robberies on the Road, the County from being Sued, the Increase of High-way Men, and Multiplicity of Suits: the <hi>Bank</hi> being a Standing <hi>Record</hi> or <hi>Witness</hi> to all Receipts anp Payments there made.</p>
+            <p>BY this Means the <hi>Government,</hi> &amp;c. may be Ac<g ref="char:EOLhyphen"/>commodated with much greater Summs, and upon easier <hi>Terms,</hi> than any other <hi>Bank; Money</hi> will be<g ref="char:EOLhyphen"/>come more Plentiful, by Lessening the Occasion on it; and then the Nation will have enough for smaller Uses, which now they cannot: It will not only occasion Quick, and Repeated Returns, but infallibly Secure and Enforce <hi>Trade,</hi> which <hi>Coyn</hi> a<g ref="char:EOLhyphen"/>lone will not do; whereby Trading Persons ('bat<g ref="char:EOLhyphen"/>ing Fire, Robberies, and Hazard of the Seas) observ<g ref="char:EOLhyphen"/>ing the Rules and Methods hereby <hi>Proposed;</hi> cannot be under the Possibility of ever proving <hi>Insolvent;</hi> but may Augment their <hi>Trade</hi> to what Degree they please.</p>
+            <p>
+               <hi>A <hi>Scheme</hi> of <hi>Management</hi> of the <hi>Bank,</hi> intended by this <hi>Proposal,</hi> is Prepared by the <hi>Author,</hi> ready to be laid before the Gentlemen, who shall be cho<g ref="char:EOLhyphen"/>sen by the Body <hi>of Subscribers,</hi> for the Dirrection and Management of this great <hi>Undertaking;</hi> wherein Care is taken for so exact a <hi>Discipline</hi> and <hi>Method,</hi> as to leave no Umbrage for any <hi>Sinister Dealing,</hi> or <hi>Male-Administration,</hi>
+               </hi>
+            </p>
+            <p>Notice shall be given, in the <hi>Publick Prints,</hi> of the <hi>Time</hi> and <hi>Place</hi> for Taking of <hi>Subscriptions</hi> to the <hi>Bank;</hi> where the <hi>Books</hi> shall be laid Open, and <hi>Clerks</hi> Attend for that Purpose.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
